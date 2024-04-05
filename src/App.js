@@ -1,5 +1,5 @@
-import TodoList from "./components/todo/TodoList.js";
-import Navigator from "./components/Navigator/Navigator";
+// import TodoList from "./components/todo/TodoList.js";
+import Navigator from "./components/Navigator/Navigator.js";
 import TableUsers from "./components/Users/TableUsers";
 import { Container } from "react-bootstrap";
 import "./App.css";
